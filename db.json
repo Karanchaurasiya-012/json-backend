@@ -6,5 +6,43 @@
       "mobile": "9876543210",
       "password": "123456"
     }
+  ],
+  "doctors": [
+    {
+      "id": 1,
+      "name": "Dr. Prakash Das",
+      "specialty": "Sr. Psychologist",
+      "availableToday": true,
+      "description": "As Psychologist Dr das practices about 7+ years...",
+      "timing": "09:30 AM–07:00 PM",
+      "image": "https://randomuser.me/api/portraits/men/32.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Dr. Anjali Mehra",
+      "specialty": "Cardiologist",
+      "availableToday": false,
+      "description": "Practicing in Mumbai since 2015 with 8+ years of experience.",
+      "timing": "10:00 AM–04:00 PM",
+      "image": "https://randomuser.me/api/portraits/women/44.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Dr. Rahul Verma",
+      "specialty": "Dermatologist",
+      "availableToday": true,
+      "description": "Skin specialist with 6+ years of experience.",
+      "timing": "12:00 PM–08:00 PM",
+      "image": "https://randomuser.me/api/portraits/men/45.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Dr. Kavita Rao",
+      "specialty": "Gynecologist",
+      "availableToday": true,
+      "description": "Specialist in women's health with 10+ years practice.",
+      "timing": "09:00 AM–06:00 PM",
+      "image": "https://randomuser.me/api/portraits/women/50.jpg"
+    }
   ]
 }
