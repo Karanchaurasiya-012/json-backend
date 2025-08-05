@@ -44,5 +44,17 @@
       "timing": "09:00 AM–06:00 PM",
       "image": "https://randomuser.me/api/portraits/women/50.jpg"
     }
+  ],
+  "appointments": [
+    {
+      "id": 1,
+      "doctorId": 1,
+      "patientName": "Priya Sharma",
+      "age": 28,
+      "gender": "Female",
+      "mobile": "9123456789",
+      "date": "2025-08-06T15:00:00.000Z",
+      "token": "8392"
+    }
   ]
 }
