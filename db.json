@@ -15,7 +15,10 @@
       "availableToday": true,
       "description": "As Psychologist Dr das practices about 7+ years...",
       "timing": "09:30 AM–07:00 PM",
-      "image": "https://randomuser.me/api/portraits/men/32.jpg"
+      "image": "https://randomuser.me/api/portraits/men/32.jpg",
+      "email": "prakash@example.com",
+      "mobile": "9000000001",
+      "password": "doc1234"
     },
     {
       "id": 2,
@@ -24,7 +27,10 @@
       "availableToday": false,
       "description": "Practicing in Mumbai since 2015 with 8+ years of experience.",
       "timing": "10:00 AM–04:00 PM",
-      "image": "https://randomuser.me/api/portraits/women/44.jpg"
+      "image": "https://randomuser.me/api/portraits/women/44.jpg",
+      "email": "anjali@example.com",
+      "mobile": "9000000002",
+      "password": "doc1234"
     },
     {
       "id": 3,
@@ -33,7 +39,10 @@
       "availableToday": true,
       "description": "Skin specialist with 6+ years of experience.",
       "timing": "12:00 PM–08:00 PM",
-      "image": "https://randomuser.me/api/portraits/men/45.jpg"
+      "image": "https://randomuser.me/api/portraits/men/45.jpg",
+      "email": "rahul@example.com",
+      "mobile": "9000000003",
+      "password": "doc1234"
     },
     {
       "id": 4,
@@ -42,7 +51,10 @@
       "availableToday": true,
       "description": "Specialist in women's health with 10+ years practice.",
       "timing": "09:00 AM–06:00 PM",
-      "image": "https://randomuser.me/api/portraits/women/50.jpg"
+      "image": "https://randomuser.me/api/portraits/women/50.jpg",
+      "email": "kavita@example.com",
+      "mobile": "9000000004",
+      "password": "doc1234"
     }
   ],
   "appointments": [
