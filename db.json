@@ -66,10 +66,9 @@
       "gender": "Female",
       "mobile": "9123456789",
       "date": "2025-08-06T15:00:00.000Z",
-      "token": "8392",
-      "status": "pending",  
-      "cancelled": false,           
-      "cancelReason": ""            
+      "token": "8392",    
+      "status": "pending",
+    "cancelReason": ""      
     }
   ]
 }
